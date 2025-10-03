@@ -10,7 +10,7 @@ int main()
     // NHẬP CÁC HỆ SỐ
 
     float delta = pow(b,2) - 4*a*c;
-    // TÍNH DELTA
+    // TÍNH BIỆT THỨC
 
     if (delta<0){
         cout << "This quadratic has no real roots.";
